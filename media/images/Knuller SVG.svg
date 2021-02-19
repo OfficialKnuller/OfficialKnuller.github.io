@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="99.999992"
+   height="160.00002"
+   viewBox="0 0 26.45833 42.333337"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Knuller SVG.svg"
+   inkscape:export-filename="C:\Users\janfa\Downloads\KnullerLogo.png"
+   inkscape:export-xdpi="14.56"
+   inkscape:export-ydpi="14.56">
+  <defs
+     id="defs2">
+    <rect
+       x="61.988094"
+       y="22.678572"
+       width="15.875"
+       height="15.875"
+       id="rect3111" />
+    <rect
+       x="8.3154764"
+       y="19.654762"
+       width="39.309525"
+       height="26.458332"
+       id="rect3105" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.709921"
+     inkscape:cx="148.54282"
+     inkscape:cy="79.338783"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="reference"
+     transform="translate(-143.51201,-435.56824)" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-143.51201,-135.56823)">
+    <g
+       id="g857"
+       transform="matrix(0.03527778,0,0,0.03527778,149.56802,159.76402)">
+      <path
+         id="rect33"
+         style="fill:#ffffff;stroke-width:1.41421"
+         d="M 377.95312,-1133.8574 -755.90625,1133.8574 377.95312,3401.5742 H 755.90625 L -377.95312,1133.8574 755.90625,-1133.8574 Z"
+         transform="matrix(0.26458333,0,0,0.26458333,178.33363,-385.86501)" />
+      <rect
+         style="display:inline;fill:#ffffff;stroke-width:0.264583"
+         id="rect62"
+         width="100"
+         height="1200"
+         x="-171.66637"
+         y="-685.86499" />
+      <path
+         id="path32"
+         style="fill:#ffffff;stroke-width:1.06904"
+         d="m 1072.8906,-1011.9258 -166.87302,333.74611 a 377.95276,944.88187 0 0 1 227.83982,867.15625 377.95276,944.88187 0 0 1 -377.95115,944.88284 377.95276,944.88187 0 0 1 -0.59375,0 H 226.88281 A 755.90549,1322.8342 0 0 0 755.90625,1511.8105 755.90549,1322.8342 0 0 0 1511.8105,188.97656 755.90549,1322.8342 0 0 0 1072.8906,-1011.9258 Z"
+         transform="matrix(0.26458333,0,0,0.26458333,178.33363,-385.86501)" />
+      <path
+         id="rect24"
+         style="fill:#ffffff;stroke-width:1.41421"
+         d="m 0,1133.8574 1133.8574,2267.7168 h 377.9531 L 566.92969,1511.8105 H 755.90625 V 1133.8574 H 377.95312 Z"
+         transform="matrix(0.26458333,0,0,0.26458333,178.33363,-385.86501)" />
+    </g>
+  </g>
+</svg>
